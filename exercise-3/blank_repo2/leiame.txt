@@ -2,3 +2,4 @@ Este é um arquivo de teste
 Nova Linha
 - Data: 14/04/2025
 - Autor: Leonardo-Luz
+Alteração do Aluno 1: Mon Apr 14 08:46:53 PM -03 2025
