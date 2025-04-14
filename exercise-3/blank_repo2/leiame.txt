@@ -1,2 +1,4 @@
 Este é um arquivo de teste
 Nova Linha
+- Data: 14/04/2025
+- Autor: Leonardo-Luz
